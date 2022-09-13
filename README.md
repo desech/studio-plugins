@@ -1,7 +1,5 @@
 
-# Plugin list for [Desech Studio](https://www.desech.com/)
-
-[www.desech.com](https://www.desech.com/)
+# Plugin list for Desech Studio
 
 Adding your plugin here will show up in the software plugin list when trying to install a plugin.
 
@@ -15,7 +13,3 @@ Adding your plugin here will show up in the software plugin list when trying to 
 ## Tips
 
 - Please make sure the main branch is named `main`, not `master`
-
-## Desech Studio website
-
- - [www.desech.com](https://www.desech.com/)
